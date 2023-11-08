@@ -1,8 +1,22 @@
-- 👋 Hi, I’m @roshannaik123
-- 👀 I’m interested in software devloping
-- 🌱 I’m currently learning Mern fullstack
+👋 Hi, I'm Roshan naik
 
-<!---
-roshannaik123/roshannaik123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌟 Front-end developer |Mern stack developer
+
+💻 Crafting pixel-perfect, user-friendly web experiences that make a difference.
+
+🔧 Skills:
+  - HTML, CSS, JavaScript
+  - Responsive Web Design
+  - CSS 
+  - Front-End Frameworks (Reactjs)
+  - Nodejs
+  - Express js
+  - Mongodb
+
+🚀 Passionate about:
+  - Creating smooth and interactive user interfaces
+  - Solving real-world problems through elegant code
+  - Keeping up with the latest front-end technologies
+  - Promoting web accessibility for all
+
+📫 Let's connect and collaborate on projects that elevate the web experience!
