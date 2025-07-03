@@ -9,6 +9,7 @@
   - Responsive Web Design
   - CSS 
   - Front-End Frameworks (Reactjs)
+  - NextJs
   - Nodejs
   - Express js
   - Mongodb
